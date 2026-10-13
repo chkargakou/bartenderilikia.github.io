@@ -1,3 +1,7 @@
+layout: page
+title: "Cosmopolitan (Chris' Edit)"
+permalink: /cosmopolitan
+
 # Cosmopolitan (Chris' Edit)
 ![[./images/20261004212002.png]]
 ### Ingredients
